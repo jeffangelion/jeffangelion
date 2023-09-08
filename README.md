@@ -1,7 +1,8 @@
 ### Ivan Vatlin
 
 ### Bio
-+ Infosec student
++ ex-Infosec student
++ junior SysOps @ mediascоpе[.]net
 
 ### Achievement wall:
 + [Add Asus P5Q support in coreboot](https://review.coreboot.org/c/coreboot/+/38143)
